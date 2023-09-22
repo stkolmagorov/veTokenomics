@@ -4,5 +4,3 @@
 * npx hardhat test
 ### Run tests with coverage report
 * npx hardhat coverage
-### TODO
-* write tests
