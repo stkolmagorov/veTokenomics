@@ -1,0 +1,9 @@
+cache
+artifacts
+node_modules
+coverage
+coverage.json
+.env
+.DS_Store
+.openzeppelin
+.vscode
